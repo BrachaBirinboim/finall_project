@@ -1,0 +1,1 @@
+﻿EXEC sp_RENAME 'Meetings.clientsId', 'clientId', 'COLUMN'
